@@ -1,4 +1,4 @@
-# Generative AI Use Cases
+# Generative AI Use Cases in 2025
 
 ## Heatmap
 
